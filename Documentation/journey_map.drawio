@@ -1,0 +1,341 @@
+<mxfile host="app.diagrams.net" modified="2024-10-28T18:30:00.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" etag="UEFmWrNwyvAaB1OHNqW7" version="24.6.2" type="device">
+  <diagram name="Page-1" id="nxIMsQ56bb5L-466g1HL">
+    <mxGraphModel dx="1623" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OkXPaSIGss-loBfBgYoD-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="50" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-3" value="Start" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-2" target="OkXPaSIGss-loBfBgYoD-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="125" as="sourcePoint" />
+            <mxPoint x="560" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="20" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-6" value="use the menu to change the settings" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-2" target="OkXPaSIGss-loBfBgYoD-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="384" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-9" value="start a new game" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="212.5" width="66" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-5" target="OkXPaSIGss-loBfBgYoD-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="600" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-8" target="OkXPaSIGss-loBfBgYoD-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="384" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-12" value="Introduction scene" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-12" target="OkXPaSIGss-loBfBgYoD-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="384" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-14" value="Player chooses if they want&amp;nbsp;&lt;div&gt;to&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;do the tutorial or not&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="261.13" y="460" width="245.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-14" target="OkXPaSIGss-loBfBgYoD-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="620" as="sourcePoint" />
+            <mxPoint x="280" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="384" y="660" />
+              <mxPoint x="320" y="660" />
+              <mxPoint x="280" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OkXPaSIGss-loBfBgYoD-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="660" as="sourcePoint" />
+            <mxPoint x="500" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-18" value="Player does the tutorial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-19" value="Player starts the day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-18" target="OkXPaSIGss-loBfBgYoD-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="620" as="sourcePoint" />
+            <mxPoint x="440" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-23" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-25" value="Player receives order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-25" target="OkXPaSIGss-loBfBgYoD-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1030" as="sourcePoint" />
+            <mxPoint x="502" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-27" value="Player tries to complete order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-27" target="OkXPaSIGss-loBfBgYoD-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="1240" as="sourcePoint" />
+            <mxPoint x="502" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-31" value="Player completes order" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="1200" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-31" target="OkXPaSIGss-loBfBgYoD-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394" y="1320" as="sourcePoint" />
+            <mxPoint x="390" y="1370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="1380" />
+              <mxPoint x="390" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-34" value="&amp;nbsp;Player receives money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-35" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.033;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-34" target="OkXPaSIGss-loBfBgYoD-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="1410" as="sourcePoint" />
+            <mxPoint x="160" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="1480" />
+              <mxPoint x="200" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OkXPaSIGss-loBfBgYoD-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1380" as="sourcePoint" />
+            <mxPoint x="640" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-38" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-39" value="Client leaves angry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-39" target="OkXPaSIGss-loBfBgYoD-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="1440" as="sourcePoint" />
+            <mxPoint x="760" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="1478" />
+              <mxPoint x="760" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-42" value="Player achieved money goal of the day" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304.13" y="1560" width="163.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-42" target="OkXPaSIGss-loBfBgYoD-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1680" as="sourcePoint" />
+            <mxPoint x="250" y="1710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="386" y="1710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-45" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-47" value="Is it the final day?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1670" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OkXPaSIGss-loBfBgYoD-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1709.75" as="sourcePoint" />
+            <mxPoint x="1050" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="1710" />
+              <mxPoint x="1040" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-50" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-47" target="OkXPaSIGss-loBfBgYoD-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1804" as="sourcePoint" />
+            <mxPoint x="120" y="1800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-52" value="Congrats the player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261.13" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-53" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OkXPaSIGss-loBfBgYoD-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="1799.63" as="sourcePoint" />
+            <mxPoint x="110" y="1799.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-55" value="Move to next day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-52" target="OkXPaSIGss-loBfBgYoD-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444" y="1810" as="sourcePoint" />
+            <mxPoint x="494" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-57" value="Choose to play arcade" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506.88" y="1755" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-57" target="OkXPaSIGss-loBfBgYoD-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1880" as="sourcePoint" />
+            <mxPoint x="490" y="1900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1900" />
+              <mxPoint x="440" y="1900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-59" value="Start new arcade day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OkXPaSIGss-loBfBgYoD-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553.5" y="1900" as="sourcePoint" />
+            <mxPoint x="660" y="1930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="1900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-61" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-62" value="Go to main menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-63" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.013;entryY=0.936;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-55" target="OkXPaSIGss-loBfBgYoD-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="1750" as="sourcePoint" />
+            <mxPoint x="30" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-65" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-69" value="Fail the day message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OkXPaSIGss-loBfBgYoD-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1710" as="sourcePoint" />
+            <mxPoint x="650" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-71" value="Day finished?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="800" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-19" target="OkXPaSIGss-loBfBgYoD-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="970" as="sourcePoint" />
+            <mxPoint x="700" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.48;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-71" target="OkXPaSIGss-loBfBgYoD-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="1060" as="sourcePoint" />
+            <mxPoint x="500" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-74" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-71" target="OkXPaSIGss-loBfBgYoD-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="945" as="sourcePoint" />
+            <mxPoint x="930" y="895" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="1615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-76" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="OkXPaSIGss-loBfBgYoD-25" target="OkXPaSIGss-loBfBgYoD-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="612" y="900" as="sourcePoint" />
+            <mxPoint x="850" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-85" value="Day finished text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OkXPaSIGss-loBfBgYoD-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OkXPaSIGss-loBfBgYoD-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="1615" as="sourcePoint" />
+            <mxPoint x="820" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
